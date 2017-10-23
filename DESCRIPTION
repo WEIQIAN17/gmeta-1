@@ -21,7 +21,7 @@ Description: An implementation of an all-in-one function for a wide range
     information obtained from multiple studies and makes inference for study-level
     parameters with no distributional assumption. Specifically, it can construct
     confidence intervals for unknown, fixed study-level parameters via confidence
-    distribtuion. Furthermore, it can perform estimation via asymptotic confidence
+    distribution. Furthermore, it can perform estimation via asymptotic confidence
     distribution whether tie or near tie condition exist or not. The plot.gmeta()
     function to visualize individual and combined CDs through extended forest plots
     is also available. Compared to version 2.2-6, version 2.3-0 contains a new function np.gmeta().
